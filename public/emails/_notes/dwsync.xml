@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name=".gitkeep" server="appsample1.com//var/www/html/" local="132576660641222671" remote="132576872120000000" Dst="1" />
+<file name=".htpasswd" server="appsample1.com//var/www/html/" local="132576660648373157" remote="132576872130000000" Dst="1" />
+<file name="confirm-template.html" server="appsample1.com//var/www/html/" local="132576660644389311" remote="132576872130000000" Dst="1" />
+<file name="invite-template.html" server="appsample1.com//var/www/html/" local="132576660646454816" remote="132576872130000000" Dst="1" />
+<file name="reset-template.html" server="appsample1.com//var/www/html/" local="132576660650255534" remote="132576872130000000" Dst="1" />
+<file name=".gitkeep" server="173.168.3.50:2000//var/www/mobilesop/" local="132579129081726558" remote="132579992620000000" Dst="1" />
+<file name=".htpasswd" server="173.168.3.50:2000//var/www/mobilesop/" local="132579129081726558" remote="132579992620000000" Dst="1" />
+<file name="confirm-template.html" server="173.168.3.50:2000//var/www/mobilesop/" local="132579129081736536" remote="132579992620000000" Dst="1" />
+<file name="invite-template.html" server="173.168.3.50:2000//var/www/mobilesop/" local="132579129081746505" remote="132579992620000000" Dst="1" />
+<file name="reset-template.html" server="173.168.3.50:2000//var/www/mobilesop/" local="132579129081746505" remote="132579992620000000" Dst="1" />
+</dwsync>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="AndroidContentPartRetriever.chunk.js" server="173.168.3.50:2000//var/www/mobilesop/" local="132579129074805070" remote="132579994210000000" Dst="1" />
+<file name="ArrayBufferPdfPartRetriever.chunk.js" server="173.168.3.50:2000//var/www/mobilesop/" local="132579129074815046" remote="132579994210000000" Dst="1" />
+<file name="AzurePartRetriever.chunk.js" server="173.168.3.50:2000//var/www/mobilesop/" local="132579129074815046" remote="132579994210000000" Dst="1" />
+<file name="BlackBoxPartRetriever.chunk.js" server="173.168.3.50:2000//var/www/mobilesop/" local="132579129074825010" remote="132579994210000000" Dst="1" />
+<file name="CoreControls.js" server="173.168.3.50:2000//var/www/mobilesop/" local="132579129074904816" remote="132579994220000000" Dst="1" />
+<file name="CORSWorker.js" server="173.168.3.50:2000//var/www/mobilesop/" local="132579129074825010" remote="132579994220000000" Dst="1" />
+<file name="DecryptWorker.js" server="173.168.3.50:2000//var/www/mobilesop/" local="132579129074914770" remote="132579994220000000" Dst="1" />
+<file name="ExternalPdfPartRetriever.chunk.js" server="173.168.3.50:2000//var/www/mobilesop/" local="132579129074914770" remote="132579994220000000" Dst="1" />
+<file name="HttpPartRetriever.chunk.js" server="173.168.3.50:2000//var/www/mobilesop/" local="132579129074924861" remote="132579994220000000" Dst="1" />
+<file name="IOSPartRetriever.chunk.js" server="173.168.3.50:2000//var/www/mobilesop/" local="132579129074924861" remote="132579735200000000" Dst="1" />
+<file name="LocalPartRetriever.chunk.js" server="173.168.3.50:2000//var/www/mobilesop/" local="132579129074934841" remote="132579735200000000" Dst="1" />
+<file name="LocalPdfPartRetriever.chunk.js" server="173.168.3.50:2000//var/www/mobilesop/" local="132579129074934841" remote="132579735200000000" Dst="1" />
+<file name="pako.chunk.js" server="173.168.3.50:2000//var/www/mobilesop/" local="132579129076251349" remote="132579735200000000" Dst="1" />
+<file name="PDFInfoVersion1.chunk.js" server="173.168.3.50:2000//var/www/mobilesop/" local="132579129074944752" remote="132579735210000000" Dst="1" />
+<file name="pikaday.chunk.js" server="173.168.3.50:2000//var/www/mobilesop/" local="132579129076251349" remote="132579735210000000" Dst="1" />
+<file name="SelectionInfoOld.chunk.js" server="173.168.3.50:2000//var/www/mobilesop/" local="132579129074944752" remote="132579735210000000" Dst="1" />
+<file name="StreamingPartRetriever.chunk.js" server="173.168.3.50:2000//var/www/mobilesop/" local="132579129074954664" remote="132579735210000000" Dst="1" />
+<file name="vendors.ascii85.chunk.js" server="173.168.3.50:2000//var/www/mobilesop/" local="132579129076261183" remote="132579735210000000" Dst="1" />
+<file name="vendors.ascii85.quill.chunk.js" server="173.168.3.50:2000//var/www/mobilesop/" local="132579129076261183" remote="132579735210000000" Dst="1" />
+<file name="vendors.pako.chunk.js" server="173.168.3.50:2000//var/www/mobilesop/" local="132579129076271153" remote="132579735220000000" Dst="1" />
+<file name="vendors.quill.chunk.js" server="173.168.3.50:2000//var/www/mobilesop/" local="132579129076291095" remote="132579735220000000" Dst="1" />
+<file name="WebDBPartRetriever.chunk.js" server="173.168.3.50:2000//var/www/mobilesop/" local="132579129074954664" remote="132579735220000000" Dst="1" />
+<file name="WinRTPartRetriever.chunk.js" server="173.168.3.50:2000//var/www/mobilesop/" local="132579129074964637" remote="132579735220000000" Dst="1" />
+<file name="Worker.js" server="173.168.3.50:2000//var/www/mobilesop/" local="132579129074974624" remote="132579735220000000" Dst="1" />
+</dwsync>

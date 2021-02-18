@@ -1,0 +1,14 @@
+{
+    "name": "Mobilesop192 Push Notification",
+    "short_name": "mobilesop192",
+    "gcm_sender_id": "564571092501",
+    "start_url": "/",
+    "display": "standalone",
+    "icons": [
+        {
+            "src": "https://cdn.pushalert.co/icons/default_icon-29142.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        }
+    ]
+}
